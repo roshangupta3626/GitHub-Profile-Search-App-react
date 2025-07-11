@@ -27,7 +27,7 @@ const GithubSearch = () => {
 
   return (
     <div className='main-container'>
-      <h1 className='main-heading'>GitHub Profile Checker by Roshan</h1>
+      <h1 className='main-heading'>GitHub Profile Checker by RoshanG</h1>
       <form onSubmit={handleSubmit} className='search-form'>
         <input
           type='text'
